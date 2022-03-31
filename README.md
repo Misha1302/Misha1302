@@ -6,7 +6,7 @@
 ![Unity](https://img.shields.io/badge/Unity-DC143C?logo=UNITY)
 ![CSharp](https://img.shields.io/badge/C_Sharp-FF4500?logo=CSharp)
 
-### Follow me
+## Follow me
 
 [![VK](https://img.shields.io/badge/VKontakte-0077ff?logo=VK)](https://vk.com/misha13022008)
 [![Discord](https://img.shields.io/badge/Discord-gray?logo=Discord)](https://discordapp.com/users/745624877255360602)
